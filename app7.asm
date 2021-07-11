@@ -30,4 +30,5 @@ INJECT:
 
 unregistersymbol(INJECT)
 dealloc(newmem)
+
 {
