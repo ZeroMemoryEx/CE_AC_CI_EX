@@ -1,6 +1,6 @@
-{ 
-  This code will make both enemies and allies players weapons (rifles,shotgun..) unuseable except grenade and knife
-}
+
+//This code will make both enemies and allies players weapons (rifles,shotgun..) unuseable except grenade and knife
+
 
 [ENABLE]
 
